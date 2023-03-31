@@ -1,10 +1,4 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on Ulleri Tech (P) LTD, Bhaktapur
-- 🌱 I’m currently learning React Native to improve my mobile app development skills.
-- 👯 I’m looking to collaborate on open-source projects related to mobile app development or web development.
-- 🤔 I’m looking for help with improving my algorithmic problem-solving skills.
-- 📫 How to reach me: You can email me at hello@binijshrestha.com.np or connect with me on [LinkedIn](https://www.linkedin.com/in/binijshrestha/).
 
 ### :fire: My Stats :  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thebinij)](https://git.io/streak-stats)
