@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebinij&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,CSS,Dart,Ruby,Shell,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Binij's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iambinij/)](https://github.com/anuraghazra/github-readme-stats)
+[![Binij's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iambinij&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools
 
