@@ -2,7 +2,7 @@
 
 ### :fire: My Stats :  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebinij&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide=html,Dockerfile,CSS,Shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebinij&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,CSS,Dockerfile,Shell,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
