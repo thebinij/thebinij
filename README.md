@@ -2,7 +2,7 @@
 
 ### :fire: My Stats :  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebinij&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,CSS,Dockerfile,Shell,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebinij&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,CSS,Dart,Ruby,Shell,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -22,7 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> 
 </div>
 
 #### Databases
